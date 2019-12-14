@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Web", "Web\Web.csproj", "{7
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Server", "Server\Server.csproj", "{0A34CC64-2FFE-44EA-B3AE-5DC01C290D11}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Net", "..\Net\Net\Net.csproj", "{738F9C71-2A20-4188-B36C-506888F0342F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Net", "Net\Net\Net.csproj", "{738F9C71-2A20-4188-B36C-506888F0342F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
