@@ -11,7 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\Net\Net\Net.csproj" />
+    <ProjectReference Include="..\Net\Net\Net.csproj" />
   </ItemGroup>
 
   <ItemGroup>
